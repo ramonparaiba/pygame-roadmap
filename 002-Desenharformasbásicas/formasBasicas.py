@@ -12,7 +12,7 @@ while running:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
-    #Atualizar o fundo ada tela
+    #Atualizar o fundo da tela
     screen.fill((0, 0, 0))
 
     #Desenhos
