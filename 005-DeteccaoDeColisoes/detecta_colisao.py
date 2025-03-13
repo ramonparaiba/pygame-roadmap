@@ -3,6 +3,7 @@ import pygame
 pygame.init()
 screen = pygame.display.set_mode((800, 600))
 clock = pygame.time.Clock()
+pygame.display.set_caption('Detectar Colisão')
 #CORES
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
