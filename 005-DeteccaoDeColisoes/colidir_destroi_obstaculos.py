@@ -22,10 +22,10 @@ speed = 300
 
 #Obstáculos
 obstaculos = []
-for _ in range(5):
+for _ in range(7):
     x = random.randint(0, screen_width - 50)
     y = random.randint(0, screen_height - 50)
-    obstaculo = pygame.Rect(x, y, 50, 50)
+    obstaculo = pygame.Rect(x, y, 20, 20)
     obstaculos.append(obstaculo)
 
 while running == True:
