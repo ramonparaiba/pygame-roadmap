@@ -19,7 +19,7 @@ BLUE = (0, 0, 255)
 
 projetil_width = 10
 projetil_height = 10
-projetil_speed = 30
+projetil_speed = 20
 
 
 class Projetil:
@@ -48,7 +48,7 @@ while running:
             running = False
 
     current_time = pygame.time.get_ticks()
-    if current_time - last_projetil_time >= 500:
+    if current_time - last_projetil_time >= 800:
         projeteis.append(criar_projetil())
         last_projetil_time = current_time
     
