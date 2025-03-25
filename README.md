@@ -8,6 +8,6 @@ Neste projeto, pretendo documentar meus estudos sobre a biblioteca para desenvol
 Se sinta a vontade para contribuir com esse estudo.
 
 _____________________________________________________________
-![Relative date](https://img.shields.io/date/:timestamp) - Até o diretório 10 busquei documentar implementações de conhecimentos e mecânicas básicas para jogos digitais. Desde a exibição de uma janela de jogo básica, até a implementação de uma mecânica de plataforma.
+![Relative date](https://img.shields.io/date/1742860800) - Até o diretório 10 busquei documentar implementações de conhecimentos e mecânicas básicas para jogos digitais. Desde a exibição de uma janela de jogo básica, até a implementação de uma mecânica de plataforma.
 
 
